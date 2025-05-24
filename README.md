@@ -1,7 +1,7 @@
 
 # MSFT Price Markov Model Analysis
 
-This project applies a Markov model to predict and analyze historical stock price data for Microsoft (MSFT) from March 1986 to April 2025. The dataset includes key stock price indicators such as open, high, low, close, adjusted close, and trading volume. The analysis specifically filters data for the year 2024.
+This quantitative modeling project uses a Markov model to analyze Microsoft's (MSFT) historical stock price data from March 1986 to April 2025, with a focus on the year 2024. The dataset includes key indicators like open, high, low, close, adjusted close, and trading volume. The analysis aims to predict stock price transitions and future movements based on past data, providing insights into MSFT's market behavior.
 
 ## Prerequisites
 
